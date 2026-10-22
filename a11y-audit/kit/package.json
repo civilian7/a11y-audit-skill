@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "type": "module",
+  "description": "Vendored subset of plugin87/ux-ui-agent-skills v2.10.0 (MIT) for the a11y-audit skill",
+  "dependencies": { "playwright": "^1.40.0" }
+}
